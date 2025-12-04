@@ -9,4 +9,13 @@
 ## 💻 · ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0) ![Zed](https://img.shields.io/badge/zedindustries-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown          11 hrs 10 mins  ███████████▓░░░░░░░░░░░░░   46.63 %
+Go                6 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   27.85 %
+Java              2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+HTML              1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Vue.js            44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+```
+
 <!--END_SECTION:waka-->
