@@ -7,3 +7,6 @@
 ## 🏗️ · ![Vue.js](https://img.shields.io/badge/vuejs-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![UnoCSS](https://img.shields.io/badge/unocss-333333?style=flat-square&logo=unocss&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) 
 
 ## 💻 · ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0) ![Zed](https://img.shields.io/badge/zedindustries-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
