@@ -28,4 +28,5 @@ Java              52 mins         █░░░░░░░░░░░░░░�
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eltrac)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/822120556128239677)
+[![Public Key](https://img.shields.io/badge/public%20key-8A2BE2?style=for-the-badge)](https://github.com/BigCoke233/BigCoke233/blob/master/key.pub)
 or [mail](mailto:hi@guhub.cn)
