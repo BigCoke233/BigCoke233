@@ -1,4 +1,4 @@
-<img width="1096" height="490" alt="image" src="https://github.com/user-attachments/assets/3ba2d39c-98f2-41cc-a7f0-3687c6368b8d" /># Eltrac 🐨 ![](https://visitor-badge.laobi.icu/badge?page_id=bigcoke233.readme) [![wakatime](https://wakatime.com/badge/user/018ec273-8806-416b-8dc5-c3be45648d3e.svg?style=flat-square)](https://wakatime.com/@018ec273-8806-416b-8dc5-c3be45648d3e)
+# Eltrac 🐨 ![](https://visitor-badge.laobi.icu/badge?page_id=bigcoke233.readme) [![wakatime](https://wakatime.com/badge/user/018ec273-8806-416b-8dc5-c3be45648d3e.svg?style=flat-square)](https://wakatime.com/@018ec273-8806-416b-8dc5-c3be45648d3e)
 
 ### This week I code in...
 
