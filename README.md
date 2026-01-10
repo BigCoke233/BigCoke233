@@ -29,6 +29,7 @@ Vue.js            1 hr 43 mins    █▓░░░░░░░░░░░░░�
 
 ### Reach me via...
 
-[![Email](https://img.shields.io/badge/Email-228b22?style=for-the-badge)](mailto:hi@guhub.cn)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eltrac)
-[![Public Key](https://img.shields.io/badge/public%20key-8A2BE2?style=for-the-badge)](https://github.com/BigCoke233/BigCoke233/blob/master/key.pub)
+* 📧 **Email:** [hi@guhub.cn](mailto:hi@guhub.cn)
+* 💬 **Matrix:** `@eltrac:matrix.org`
+* 🔑 **PGP**: [Public Key](https://github.com/BigCoke233/BigCoke233/blob/master/key.pub)
+
