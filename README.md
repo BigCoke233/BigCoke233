@@ -29,7 +29,7 @@ Other        25 mins         ▓░░░░░░░░░░░░░░░░
 
 ### Reach me via...
 
-* 📧 **Email:** [hi@guhub.cn](mailto:hi@guhub.cn)
+* 📧 **Email:** [hi@eltr.ac](mailto:hi@eltr.ac)
 * 💬 **Matrix:** `@eltrac:matrix.org`
 * 🔑 **PGP**: [Public Key](https://github.com/BigCoke233/BigCoke233/blob/master/key.pub)
 
