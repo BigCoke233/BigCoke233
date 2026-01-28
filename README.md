@@ -9,11 +9,11 @@ Send me an [email](mailto:hi@guhub.cn) and say hello. I'd love to make some new 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     10 hrs 9 mins   ██████████████░░░░░░░░░░░   56.56 %
-HTML         2 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-YAML         2 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-Org          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-TOML         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Markdown     10 hrs 51 mins  ██████████████▓░░░░░░░░░░   58.41 %
+HTML         2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+YAML         1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Org          57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+TOML         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
