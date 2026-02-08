@@ -30,6 +30,7 @@ JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░
 ### Reach me via...
 
 * 📧 **Email:** [hi@eltr.ac](mailto:hi@eltr.ac)
-* 💬 **Matrix:** `@eltrac:matrix.org`
+* 🕸️ **Fediverse:** [@eltrac@eltr.ac](https://akk.eltr.ac/eltrac)
+* 💬 **Matrix:** `@eltrac:eltr.ac`
 * 🔑 **PGP**: [Public Key](https://github.com/BigCoke233/BigCoke233/blob/master/key.pub)
 
