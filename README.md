@@ -1,3 +1,5 @@
+![](https://wakapi.dev/api/activity/chart/eltrac.svg)
+
 > [!important]
 > I'm moving to [Codeberg](https://codeberg.org/eltrac). Repositories on GitHub will be either deleted or archived. This account will exist for a while but there will be significantly fewer activities other than migration to Codeberg.
 
